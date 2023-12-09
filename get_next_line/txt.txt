@@ -1,0 +1,7 @@
+Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful but interesting nonetheless.
+
+Also, I wrote an article called "One Year of 42". Basically is a resume of my life experiences, achievements and the educational milestones I achieved this last year at 42. So, if you're a fellow (42) student, a professional considering a return to education or unsure about the future, I hope this helps ease your path and not feel alone.
+
+Note
+
+If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
